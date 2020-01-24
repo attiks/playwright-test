@@ -1,0 +1,15 @@
+{
+  "name": "playwright-test",
+  "version": "0.0.1",
+  "description": "Playwright test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "attiks",
+  "license": "ISC",
+  "devDependencies": {
+    "pixelmatch": "^5.1.0",
+    "playwright": "^0.9.21"
+  }
+}
